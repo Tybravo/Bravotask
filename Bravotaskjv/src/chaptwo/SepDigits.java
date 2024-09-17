@@ -5,28 +5,24 @@ public class SepDigits {
     public static void main(String[] args) {
 
         int getSeparated = 42339;
-        int sepValue = sep_Digits(getSeparated);
+        String sepValue = spaceDigit(getSeparated);
 
         System.out.println(sepValue);
     }
 
 
 
-    public static int sep_Digits(int number) {
+    public static String spaceDigit(int number) {
+        StringBuilder sepNum = new StringBuilder();
 
-        //StringBuilder Separated = new StringBuilder();
         String digitsStr = Integer.toString(number);
-        int SizeOfDigits = digitsStr.length();
-
-        for(int index = 0; index < SizeOfDigits; index++) {
+        for(int index = 0; index < digitsStr.length(); index++) {
 
             char getChar = digitsStr.charAt(index);
-            int separated = Character.getNumericValue(getChar);
-
+            String separated = Character.toString(getChar);
+         sepNum.append(" ").append(separated);
         }
 
-//return Separated.toString();
-//return Integer.parseInt(String.valueOf(Separated));
-
+        return sepNum.toString();
     }
 }
