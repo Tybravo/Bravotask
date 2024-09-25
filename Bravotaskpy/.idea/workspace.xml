@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="031b00df-1296-4bc7-904c-80e608734dd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Bravotask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bravotaskjv/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bravotaskjv/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bravotaskjv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bravotaskjv/src/chaptwo/InvestmentReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bravotaskjv/test/chaptwo/InvestmentReturnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Bravotaskpy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/chaptwo/heartratecalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/chaptwo/howbigpythoninteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/chaptwo/investmentreturn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testchaptwo/test_heartratecalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testchaptwo/test_howbigpythoninteger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testchaptwo/test_investmentreturn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bravotaskjv/src/task/CardValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bravotaskjv/test/task/CardValidationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task/studentgrade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/test_studentgrade.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tybravo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tybravo/Bravotask.git&quot;,
+    &quot;accountId&quot;: &quot;b74f9a41-0afd-4c96-9c65-96944b1f7176&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2m87ZIiIdByOJ9nraQoeMlqWHWB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test.test_cardvalidator.TestCardValidator.test_that_function_to_add_every_second_digit_right_to_left_exist.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_that_function_to_add_every_second_digit_right_to_left_exist.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_add_every_second_digit_right_to_left.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_at_initial.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_maximum_heart_rate_beat.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_minimum_heart_rate_beat.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_range.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_high.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_low.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_exists.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_howbigpythoninteger.Test_HowBigPythonInteger.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_howbigpythoninteger.Test_HowBigPythonInteger.test_how_big_python_integer_function_exist.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_howbigpythoninteger.Test_HowBigPythonInteger.test_how_big_python_integer_power_100.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_howbigpythoninteger.Test_HowBigPythonInteger.test_how_big_python_integer_power_50.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_howbigpythoninteger.Test_howbigpythoninteger.test_how_big_python_integer_function_exist.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_sepdigits.TestSepDigits.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_sepdigits.TestSepDigits.test_sep_digits_are_separated_with_spaces.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_sepdigits.TestSepDigits.test_sep_digits_function_exist.executor": "Run",
+    "Python tests.Python tests for testchaptwo.test_sepdigits.TestSepDigits.test_sepddigits_function_exist.executor": "Run",
+    "Python tests.Python tests for testtask.test_cardvalidator.TestCardValidator.executor": "Run",
+    "Python tests.Python tests for testtask.test_investmentreturn.TestInvestmentReturn.executor": "Run",
+    "Python tests.Python tests for testtask.test_investmentreturn.TestInvestmentReturn.test_investment_return_yielded_after_10_years.executor": "Run",
+    "Python tests.Python tests for testtask.test_investmentreturn.TestInvestmentReturn.test_investment_return_yielded_after_20_years.executor": "Run",
+    "Python tests.Python tests for testtask.test_investmentreturn.TestInvestmentReturn.test_that_investment_return_function_exist.executor": "Run",
+    "Python tests.Python tests in test_cardvalidator.py.executor": "Run",
+    "Python.cardvalidator.executor": "Run",
+    "Python.heartratecalculator.executor": "Run",
+    "Python.howbigpythoninteger.executor": "Run",
+    "Python.investmentreturn.executor": "Run",
+    "Python.sepdigits.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL USER/Documents/Bravotask/Bravotaskpy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL USER\Documents\Bravotask\Bravotaskpy\test\testchaptwo" />
+      <recent name="C:\Users\DELL USER\Documents\Bravotask\Bravotaskpy\task\chaptwo" />
+      <recent name="C:\Users\DELL USER\Documents\Bravotask\Bravotaskpy\task" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator">
+    <configuration name="Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Bravotaskpy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testchaptwo.test_heartratecalculator.Test_Heartratecalculator&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_at_initial" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Bravotaskpy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_at_initial&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_range" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Bravotaskpy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_range&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_high" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Bravotaskpy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_high&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_low" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Bravotaskpy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_low&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator" />
+        <item itemvalue="Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_range" />
+        <item itemvalue="Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_low" />
+        <item itemvalue="Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_too_high" />
+        <item itemvalue="Python tests.Python tests for testchaptwo.test_heartratecalculator.Test_Heartratecalculator.test_that_heart_rate_calculator_display_at_initial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031b00df-1296-4bc7-904c-80e608734dd9" name="Changes" comment="" />
+      <created>1726446404445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726446404445</updated>
+      <workItem from="1726446405610" duration="1400000" />
+      <workItem from="1726447839564" duration="162000" />
+      <workItem from="1726448259301" duration="2096000" />
+      <workItem from="1726479429070" duration="22001000" />
+      <workItem from="1726637297019" duration="5057000" />
+      <workItem from="1726665205625" duration="35023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Bravotaskpy$investmentreturn.coverage" NAME="investmentreturn Coverage Results" MODIFIED="1726689563121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/chaptwo" />
+    <SUITE FILE_PATH="coverage/Bravotaskpy$heartratecalculator.coverage" NAME="heartratecalculator Coverage Results" MODIFIED="1726793651238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/chaptwo" />
+    <SUITE FILE_PATH="coverage/Bravotaskpy$sepdigits.coverage" NAME="sepdigits Coverage Results" MODIFIED="1726494122639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/chaptwo" />
+    <SUITE FILE_PATH="coverage/Bravotaskpy$cardvalidator.coverage" NAME="cardvalidator Coverage Results" MODIFIED="1726447267104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/task" />
+    <SUITE FILE_PATH="coverage/Bravotaskpy$.coverage" NAME=" Coverage Results" MODIFIED="1726801955009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Bravotaskpy$howbigpythoninteger.coverage" NAME="howbigpythoninteger Coverage Results" MODIFIED="1726767614941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/chaptwo" />
+  </component>
+</project>
