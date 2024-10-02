@@ -1,6 +1,9 @@
 package task;
 
+import org.junit.Assert;
 import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+
 import static org.junit.Assert.*;
 
 public class CheckoutTest {
@@ -24,7 +27,13 @@ public class CheckoutTest {
     @Test
     public void test_That_Product_Quantity_Added() {
         int productQuantity = Checkout.getProductQuantity(3);
-        assertEquals(productQuantity, "3");
+        assertEquals(productQuantity, 3);
+    }
+
+    @Test
+    public void test_That_Product_Price_Added() {
+        double productPrice = Checkout.getProductPrice(2500);
+        Assertions.assertEquals(productPrice, 2500, 0.001);
     }
 
 
