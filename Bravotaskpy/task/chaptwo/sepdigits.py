@@ -12,3 +12,4 @@ def sep_digits(number):
     return f" {separated} "
 
 print(sep_digits(42339))
+
